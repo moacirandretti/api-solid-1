@@ -1,0 +1,17 @@
+version: '3'
+
+services:
+  meulindoapp:
+    restart: always
+    build:
+      context: .
+      target: apinode
+
+    container_name: container_estudo_docker_solid
+    volumes:
+      - .:/home/app
+    ports:
+      - '3000:3000'
+    environment:
+      - TESTE=envteste
+
