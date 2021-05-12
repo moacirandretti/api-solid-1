@@ -26,7 +26,8 @@ Entities must depend on abstractions, not on concretions. It states that the hig
 This projects have the main objective to practice the SOLID principles.
 
 Any Ideas or suggestions? 🚀
-Send me a message on Discord: Andretti#5102
+
+Send me a message on Discord: **Andretti#5102**
 😎
 
 
